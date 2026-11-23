@@ -31,6 +31,9 @@ YUME 是一个轻量、可定制、偏二次元气质的 Typecho 主题。默认
 - 归档写作热力图
 - 标签云权重
 - 随机文章
+- 作品页 GitHub 截图封面
+- 作品页每次显示 6 个，按钮加载更多
+- 后台可选择、排序作品并设置自定义截图
 - KOOK 登录、KOOK 头像 / 昵称
 - KOOK 社区小工具
 - Steam 最近游戏
@@ -54,6 +57,10 @@ YUME 是一个轻量、可定制、偏二次元气质的 Typecho 主题。默认
 | 文章 | 现在 |
 | --- | --- |
 | ![文章](docs/screenshots/article.webp) | ![现在](docs/screenshots/now.webp) |
+
+| 作品 |
+| --- |
+| ![作品](docs/screenshots/works.webp) |
 
 | 关于 | 动态 |
 | --- | --- |
